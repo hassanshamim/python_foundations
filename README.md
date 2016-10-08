@@ -1,15 +1,14 @@
 # [Python Foundations](http://www.hackoregon.org/beginner-ish)
 
-**Summer 2016** - (Oct 13th - December 8th)
+**Summer 2016** - (Oct 11th - December 8th)
 
 **Falcon Building** - 321 NW Glisan St, Portland, OR 97209  Tuesday and Thursday evenings 6-9 PM
 
-**Instructor:** Hassan Shamim *contact info distributed in class*u
+**Instructor:** Hassan Shamim *contact info distributed in class*
 
 **Office Hours:** TBD
 
 ------
-
 
 
 ## About
@@ -80,11 +79,8 @@ For the last 2-3 weeks of class, we shall choose some of the following topics de
 ### Required tools
 
 - git (we'll install in class)
-
 - [A text editor](resources/text_editors.md)
-
 - [Anaconda (Python 3.5 Graphical Version)](https://www.continuum.io/downloads)
-
 - [Slack](https://slack.com/downloads/)
 
   ​
