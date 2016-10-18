@@ -1,0 +1,1 @@
+Folder of lessons notebooks after we've gone through them in class.  Should be the same as the original lesson excepted cells will be executed, and some example cells may be created as we discuss the lesson.
