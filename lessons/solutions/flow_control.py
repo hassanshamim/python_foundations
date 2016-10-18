@@ -18,3 +18,28 @@ for char in word:
             break
         letter_value += 1
 print(total)
+
+
+# Leap year options:
+# Option 1
+year = 1909
+if year % 4 == 0:
+    if year % 400 == 0:
+        print('Leap')
+    elif year % 100 == 0:
+        print('Normal')
+    else:
+        print('Leap')
+else:
+    print('Normal')
+
+# Option 2
+year = 5
+if year % 400 == 0:
+    print('Leap')
+elif year % 100 == 0:
+    print('Normal')
+elif year % 4 == 0:
+    print('Leap')
+else:
+    print('Normal')
