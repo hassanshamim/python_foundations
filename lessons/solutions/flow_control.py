@@ -4,7 +4,7 @@ countdown = 10
 while countdown > 0:
     print(countdown)
     countdown = countdown - 1
-    print('Blastoff!')
+print('Blastoff!')
 
 # lesson 3 Bonus:
 from string import ascii_lowercase
