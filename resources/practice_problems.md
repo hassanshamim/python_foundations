@@ -2,7 +2,7 @@
 
 
 
-1. [Codingame](codingame.com)  - Visualized practice problems online.  Checks your solutions for accuracy.
+1. [Codingame](www.codingame.com)  - Visualized practice problems online.  Checks your solutions for accuracy.
 2. [DailyProgammer](https://www.reddit.com/r/dailyprogrammer) - random programming challenges by level (Easy, Medium, Hard).  Solved in many different languages.  I love this one.
 3. [Checkio](https://checkio.org/)
 4. [HackerRank](https://www.hackerrank.com/)
