@@ -11,12 +11,12 @@
 ------
 
 
+
 ## About
 
 The purpose of this course is to introduce students to the Python programming language.  We will also cover general programming concepts, methodologies, tools and vocabulary.  Towards the end of the course we will apply what we’ve learned to some common, tedious tasks so we may leverage our newfound programming skills to solve real-world problems.
 
 **Note**: This course draws heavily from [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).  This book available for free online and for purchase in print.  While we shall follow the general outline of the book, some course content shall differ.  I'll do my best to provide different examples than presented in the book, so it can be considered a supplemental material resource for those who would like additional practice or review.
-
 
 
 ## Aims and Outcomes
@@ -33,7 +33,6 @@ The purpose of this course is to introduce students to the Python programming la
 
 6. Join the Hack Oregon community of professionals, students, events, and communications that will help your career and the state of Oregon.
 
-   ​
 
 ## Core Principles
 
@@ -45,7 +44,6 @@ The purpose of this course is to introduce students to the Python programming la
 
 - **80/20** - “80% of the effect is from 20% of the causes” I’ll try to teach you the 20% that will give you 80% of the functionality of Python.
 
-  ​
 
 ## Curriculum Outline (subject to change)
 
@@ -61,19 +59,17 @@ The purpose of this course is to introduce students to the Python programming la
 10. Practice Problems and code review
 
 
-
 For the last 2-3 weeks of class, we shall choose some of the following topics depending on class interests:
 
-- Git
-- Testing
-- Web Scraping
-- Working with APIs (json)
-- Working with data files (csv, excel)
-- Higher order functions
-- Object-Oriented programming
-- Manipulating Images
-- Visualizing Data
-
+- [x] Git
+- [x] Testing
+- [x] Web Scraping
+- [x] Working with APIs (json)
+- [ ] Working with data files (csv, excel)
+- [ ] Higher order functions
+- [x] Object-Oriented programming
+- [ ] Manipulating Images
+- [ ] Visualizing Data
 
 
 ### Required tools
@@ -83,18 +79,15 @@ For the last 2-3 weeks of class, we shall choose some of the following topics de
 - [Anaconda (Python 3.5 Graphical Version)](https://www.continuum.io/downloads)
 - [Slack](https://slack.com/downloads/)
 
-  ​
 
 ### Course Communication
 
 The primary platform that we use in Hack University to communicate is Slack. If you haven't been invited to slack yet or want to set it up with another email address, shoot me an email and I'll get you invited. Feel free to check out any of the other channels too. It's a good way to get exposure to new topics and ideas.
 
 
-
 ### Certificate of Completion
 
 Certificates are distributed via an open sourced badging program, [badgr.io](http://www.badgr.io/), which is compliant with [Mozilla Open Badges](http://openbadges.org/) the current industry recognized leader for verifiable digital credentials.
-
 
 
 #### Grading Policy
