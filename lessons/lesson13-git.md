@@ -77,11 +77,17 @@ The flow of changes.  Edit File -> add changes to Index/Staging -> Create commit
 
 ### Branches
 
-Branches are simply a *reference*.  Generally if a branch points at a commit (C1) and a new commit is made with the previous commit as its parent (C2) the branch will now point to that new commit.  They are useful in tracking a series of changes.
+Branches are simply a *reference*.  Generally if a branch points at a commit (C1) and a new commit is made with the previous commit as its parent (C2) the branch will now point to that new commit.  They are useful in tracking a series of changes.  Because of this feature, branches most often point to the **tip**, or most recent commit of a series of commits.
 
 
 
 When we want to test some changes in isolation, we will create a new branch and *commit* our changes to that branch.  When we are happy with our changes, we update our **master** branch with the work in the branch we just created.
+
+
+
+**HEAD** is a special branch name that is a references the **current state** of your working tree.  If you move HEAD to point to a different commit, you tell git to make all your tracked files reflect how they were at that commit.
+
+When HEAD points to a commit and not a branch, you are in a **DETACHED HEAD**.  Git will complain and give you a warning, but all this means is any commits made with a DETACHED HEAD will not be tracked by a branch.
 
 
 
