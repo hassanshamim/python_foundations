@@ -1,5 +1,3 @@
-[TOC]
-
 # Git
 
 What is git?  A distributed version control system
