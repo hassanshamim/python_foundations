@@ -1,6 +1,6 @@
 For editing and saving our python files, a proper text editor is recommended.  For your convenience, I've listed a few common ones.
 
-- I'll be using [Spyder](https://pythonhosted.org/spyder/editor.html) which will come with our python installation
+- I'll be using [VS Code](https://code.visualstudio.com/) which is available on all platforms.
 
 
 - [Sublime Text](https://www.sublimetext.com/)
